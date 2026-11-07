@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.13.1",
- "notes": "v2.13.1 \u2014 Dashboard ki nayi shakal (aap ki bheji hui design par): gradient Welcome banner, rangon walay stat cards, Quick Access tiles, dark Analytics card mein aakhri 7 din ke ASAL scans aur naye pages ka chart, Recent Activities aur promo card. Tamam numbers asal data se hain \u2014 Followers/Reach Meta ki Insights se hi ayenge, nakli numbers nahi dalay gaye.",
- "package": "update-2.13.1.json",
- "packageSha256": "fae2a73f1c5100c12ee1bd1e611fca371164647fdd7e1c2d6a7e9f912872de4e",
- "publishedAt": "2026-11-07T11:40:43.961109+00:00"
+ "version": "2.14.0",
+ "notes": "v2.14.0 \u2014 Naye views, mojooda data par: Recently Added Pages (jo pages naye mile), Page Ownership (har Page ka asal owner + sirf-ek-access wali warning), Profile Groups (profiles ko groups mein), Profile Health (connection, token expiry, masail \u2014 har profile ki sehat), Performance Reports (scans ki kamyabi ki report, asal duration ke sath). Page ki Category bhi ab All Pages mein nazar ayegi (Meta se ati thi, app dikhata nahi tha).",
+ "package": "update-2.14.0.json",
+ "packageSha256": "0a3e06a001c5e1e94e49c9952df42e7ee1ab3862eaf75e3554594745d950cd5d",
+ "publishedAt": "2026-11-07T11:55:50.910087+00:00"
 }
