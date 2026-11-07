@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.15.0",
- "notes": "v2.15.0 \u2014 Records ki safai aur mukammal reports: Duplicate Pages view (ek hi Page ke doobay records pehchanein, fazool record delete karein), Missing Pages par ab Recheck aur Mark Resolved ke button (hal shuda pages alag nazar ayenge, asal scan mein milte hi khud saaf ho jayenge), Scan Reports mein har scan ka asal Duration, aur manual scan mukammal hone par notification. Auto scans khamosh rahenge \u2014 notification sirf aap ke kiye hue scan par ayegi.",
- "package": "update-2.15.0.json",
- "packageSha256": "d23deb3f47f8099eb7a7dfbfb8ec0371ab557040357b9f3bb1368ba73fe81a81",
- "publishedAt": "2026-11-07T12:09:03.784079+00:00"
+ "version": "2.16.0",
+ "notes": "v2.16.0 \u2014 Monitoring par control aur Automation Rules: har profile ki automatic monitoring alag ON/OFF, auto-scan ka waqfa Settings se (1\u201324 ghante), aur naye Automation Rules \u2014 masalan 'koi Page missing ho to khabar do' ya 'missing par 15 minute baad khud dobara check karo' \u2014 tamam rules asal scan ke nataij par chalte hain. Sath mein Connection Monitoring view: kis profile ko reconnect zaroori hai, aakhri kamyab/naakam scan aur us ki wajah, ek nazar mein.",
+ "package": "update-2.16.0.json",
+ "packageSha256": "211fe2b0ba38e1d6f139979b48da01c06ebe82cfc6f5b136676a9abbda673313",
+ "publishedAt": "2026-11-07T12:22:59.911884+00:00"
 }
