@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.22.0",
- "notes": "v2.22.0 \u2014 Naya Analytics view: 7/14/30/90 din ya apni pasand ki tareekh range par \u2014 scans, kamyabi ki sharah, naye Pages, missing hue Pages, uploads aur removed posts ke asal charts aur totals; maujooda Pages ki status/platform/category taqseem; har profile ki performance. Followers/Reach/Engagement wala hissa saaf batata hai ke ye data Meta Insights ki manzoori (App Review + Live) ke baad hi ayega \u2014 wahan koi nakli number nahi dikhaya gaya.",
- "package": "update-2.22.0.json",
- "packageSha256": "cb13c540eff2a229d5e322f782c3ff18f11432d9aca72e7d2e62761035fdd7a6",
- "publishedAt": "2026-11-07T14:15:48.782694+00:00"
+ "version": "2.23.0",
+ "notes": "v2.23.0 \u2014 Bulk Profiles Import (aap ki darkhwast par): ab profiles ek ek karke add nahi karni parein gi \u2014 Profiles page par Bulk Import mein naam + link ki poori list ek sath paste kar dein (ya .txt/.csv file utha lein), tamam profiles ek dafa mein add ho jayengi; jo pehle se mojood hain woh skip ho jayengi wajah ke sath. Note: ye profiles record ke tor par add hoti hain \u2014 posting aur scan ke liye har profile ka Connect/token alag se hoga, bilkul single add ki tarah.",
+ "package": "update-2.23.0.json",
+ "packageSha256": "ad08c4bb79d3465c20da88fa94848cd108431ce7c7b227f7d21f40b1da23b797",
+ "publishedAt": "2026-11-07T14:31:47.107110+00:00"
 }
