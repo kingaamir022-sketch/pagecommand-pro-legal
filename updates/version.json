@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.6.2",
- "notes": "v2.6.2 \u2014 Restart ki durusti: update ke baad Restart dabane par jo 'Windows cannot find node' wala error ata tha, woh khatam \u2014 app ab apne PageCommandPro.exe launcher (ya sath wale runtime) se hi dobara khulti hai.",
- "package": "update-2.6.2.json",
- "packageSha256": "ed483bb86bcdd3c16f85b75706fa6bd0d6f505d9fc3d2769d6ef30021dcb0f7f",
- "publishedAt": "2026-11-07T06:02:19.193600+00:00"
+ "version": "2.7.0",
+ "notes": "v2.7.0 \u2014 Naya \ud83d\udd11 Token se Connect: Graph API Explorer se liya gaya token paste karke profile connect karein \u2014 browser login ki zaroorat nahi, token jis account ka hoga profile usi ki banti hai aur us ke tamam Pages khud scan hokar ajate hain. Connect with Meta wala tareeqa bhi mojood hai.",
+ "package": "update-2.7.0.json",
+ "packageSha256": "ce174fe0109a18501ad1dc4f718496978926873bf4d8fe51d989258181036c54",
+ "publishedAt": "2026-11-07T08:42:44.597605+00:00"
 }
