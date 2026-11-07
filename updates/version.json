@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.21.0",
- "notes": "v2.21.0 \u2014 Notifications ab clickable hain (aap ki hidayat par): jo khabar jis cheez ki hai, us par click karein to seedha wahi screen khul jayegi \u2014 update ki khabar Settings par, missing Page ki khabar Missing Pages par (usi Page ke filter ke sath), scan ki khabar Scan Reports par, upload/timer/kam-videos ki khabar Upload Manager par, token ke masle ki khabar Connection Monitoring par. Click ke sath woh notification parha hua bhi mark ho jati hai. Note: purani notifications (is update se pehle ki) mein link nahi hoga \u2014 sirf nayi anay wali khabrein clickable hongi.",
- "package": "update-2.21.0.json",
- "packageSha256": "1734a5c7422b161e8fa5344cb01d6f5526284a34be6bd33d253c80bdbfb55207",
- "publishedAt": "2026-11-07T14:02:06.180636+00:00"
+ "version": "2.22.0",
+ "notes": "v2.22.0 \u2014 Naya Analytics view: 7/14/30/90 din ya apni pasand ki tareekh range par \u2014 scans, kamyabi ki sharah, naye Pages, missing hue Pages, uploads aur removed posts ke asal charts aur totals; maujooda Pages ki status/platform/category taqseem; har profile ki performance. Followers/Reach/Engagement wala hissa saaf batata hai ke ye data Meta Insights ki manzoori (App Review + Live) ke baad hi ayega \u2014 wahan koi nakli number nahi dikhaya gaya.",
+ "package": "update-2.22.0.json",
+ "packageSha256": "cb13c540eff2a229d5e322f782c3ff18f11432d9aca72e7d2e62761035fdd7a6",
+ "publishedAt": "2026-11-07T14:15:48.782694+00:00"
 }
