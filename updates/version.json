@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.7.0",
- "notes": "v2.7.0 \u2014 Naya \ud83d\udd11 Token se Connect: Graph API Explorer se liya gaya token paste karke profile connect karein \u2014 browser login ki zaroorat nahi, token jis account ka hoga profile usi ki banti hai aur us ke tamam Pages khud scan hokar ajate hain. Connect with Meta wala tareeqa bhi mojood hai.",
- "package": "update-2.7.0.json",
- "packageSha256": "ce174fe0109a18501ad1dc4f718496978926873bf4d8fe51d989258181036c54",
- "publishedAt": "2026-11-07T08:42:44.597605+00:00"
+ "version": "2.8.0",
+ "notes": "v2.8.0 \u2014 Naya \ud83d\udce4 Upload Manager: Page ke folder se videos delay ke sath bari bari upload karein (ek sath nahi), har Page ka done folder + history \u2014 koi video dobara upload nahi hoti; one-click mein profile ke sab Pages ke folder banayein; video ke liye auto hashtags; aur All Pages se Page ka logo (profile picture) aur bio tabdeel karein (is ke liye profiles ko ek dafa dobara Connect karna hoga \u2014 nayi permission pages_manage_metadata).",
+ "package": "update-2.8.0.json",
+ "packageSha256": "821b5c862455d8deeb28e4bdd4d0a4f10ff3a71979455d021afc49804240d11a",
+ "publishedAt": "2026-11-07T09:26:10.277474+00:00"
 }
