@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.8.1",
- "notes": "v2.8.1 \u2014 Video Manager bulk remove ki pacing: har delete ke darmiyan 2 second ka waqfa, aur Meta ki request limit (#4) ajaye to batch khud ruk jata hai aur saaf batata hai \u2014 lagatar tez deletes se jo limit lagti thi, ab woh nahi lagegi.",
- "package": "update-2.8.1.json",
- "packageSha256": "31714ca37644ee18688ed53c37bafd936e34aa28ea468ae6b48de1c9c199bff1",
- "publishedAt": "2026-11-07T09:37:10.598552+00:00"
+ "version": "2.9.0",
+ "notes": "v2.9.0 \u2014 Add Profile mein one-step \ud83d\udd11 Token Connect: token paste karte hi profile khud ban/jur jati hai (asal naam Meta se) aur us ke tamam Pages foran load ho jate hain. Agar usi account ki profile pehle se mojood hai to duplicate nahi banti \u2014 wohi connect ho jati hai.",
+ "package": "update-2.9.0.json",
+ "packageSha256": "1a9a23ed0aa9549750ca4a32ea9f570e7d9075086c76f543a016cc4796e15066",
+ "publishedAt": "2026-11-07T09:52:37.327701+00:00"
 }
