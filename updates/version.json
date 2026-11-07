@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.16.0",
- "notes": "v2.16.0 \u2014 Monitoring par control aur Automation Rules: har profile ki automatic monitoring alag ON/OFF, auto-scan ka waqfa Settings se (1\u201324 ghante), aur naye Automation Rules \u2014 masalan 'koi Page missing ho to khabar do' ya 'missing par 15 minute baad khud dobara check karo' \u2014 tamam rules asal scan ke nataij par chalte hain. Sath mein Connection Monitoring view: kis profile ko reconnect zaroori hai, aakhri kamyab/naakam scan aur us ki wajah, ek nazar mein.",
- "package": "update-2.16.0.json",
- "packageSha256": "211fe2b0ba38e1d6f139979b48da01c06ebe82cfc6f5b136676a9abbda673313",
- "publishedAt": "2026-11-07T12:22:59.911884+00:00"
+ "version": "2.17.0",
+ "notes": "v2.17.0 \u2014 Content ka hissa mukammal: Image Manager (Video Manager ki tarah \u2014 ek Page chunein, us ki photos dekhein, download ya remove karein), nayi Content Library (apni images/videos ek jagah mehfooz rakhein, kisi bhi Page ke upload folder mein ek click se bhejein), aur Upload Manager mein drag-and-drop \u2014 video files ghaseet kar chhorein, seedha Page ke folder mein chali jayengi.",
+ "package": "update-2.17.0.json",
+ "packageSha256": "90354b14b5ccf70c55cc818cbf939577aef42f66b984634984e663f07bfc526c",
+ "publishedAt": "2026-11-07T12:38:39.433641+00:00"
 }
