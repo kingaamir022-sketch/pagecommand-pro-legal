@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.10.0",
- "notes": "v2.10.0 \u2014 Naya design: tamam lists aur features par designed boxes/cards \u2014 Master List mein har profile ka apna card, Pages aur profiles ke sath rang-bharay initial avatars, Dashboard aur Owner Panel ke naye stat cards, Video Manager aur Duplicates mein video tiles, aur poori app mein ek jaisi polished shakal (Dark/Light dono themes mein). Kaam karne ka tareeqa bilkul waisa hi hai \u2014 sirf shakal nayi hai.",
- "package": "update-2.10.0.json",
- "packageSha256": "9673314b547a33d0f0fab85865e1fc60add76c689352608d73746e2ace351f84",
- "publishedAt": "2026-11-07T10:26:07.095724+00:00"
+ "version": "2.10.1",
+ "notes": "v2.10.1 \u2014 All Pages ka professional card design: har Page ab apna saaf card hai \u2014 lamba link ab ek line mein kata hua (truncate) nazar ata hai, Access Profiles apne naram box mein, Status/Problems/Monetized aur Logo/Bio button har card mein murattab. Facebook Pages, Instagram Accounts aur Missing Pages par bhi yehi design. Kaam ka tareeqa bilkul waisa hi.",
+ "package": "update-2.10.1.json",
+ "packageSha256": "10b995734559c14c2692f82773472f41b5a3572422e06ba5ad50d60c9dbc77ff",
+ "publishedAt": "2026-11-07T10:34:19.468057+00:00"
 }
