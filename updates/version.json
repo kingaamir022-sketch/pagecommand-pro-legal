@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.6.1",
- "notes": "v2.6.1 \u2014 Update feed ki durusti: feed wali jagah URL likha ho to app khud usay URL feed samajhti hai \u2014 Folder select reh jane par jo 'Feed file not found' wala error ata tha, woh khatam kar diya gaya hai.",
- "package": "update-2.6.1.json",
- "packageSha256": "3df921773636553ad01d3ae5737fde4160eb2934bebf758488e00d9979fddcc0",
- "publishedAt": "2026-11-07T05:55:24.567629+00:00"
+ "version": "2.6.2",
+ "notes": "v2.6.2 \u2014 Restart ki durusti: update ke baad Restart dabane par jo 'Windows cannot find node' wala error ata tha, woh khatam \u2014 app ab apne PageCommandPro.exe launcher (ya sath wale runtime) se hi dobara khulti hai.",
+ "package": "update-2.6.2.json",
+ "packageSha256": "ed483bb86bcdd3c16f85b75706fa6bd0d6f505d9fc3d2769d6ef30021dcb0f7f",
+ "publishedAt": "2026-11-07T06:02:19.193600+00:00"
 }
