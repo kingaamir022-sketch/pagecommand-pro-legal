@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.20.0",
- "notes": "v2.20.0 \u2014 Upload ka nizam mazeed pakka (aap ki hidayat par): (1) Duplicate check \u2014 har Page ke liye upload shuda videos ka hash record; jo video pehle upload ho chuki ho woh skip ho kar duplicate/ folder mein chali jayegi, sirf nayi upload hogi (purani done/ videos ek scan se record mein shamil). (2) Folders ab do sathoon par \u2014 pehle Profile ka folder, us ke andar us ke Pages ke folders \u2014 software khud banayega; aap ke purane folders khud nayi tartib mein muntaqil ho jayenge, videos aur history mehfooz. (3) Kisi Page ke folder mein 3 ya kam videos reh jayein to notification ayegi ke videos rakhein.",
- "package": "update-2.20.0.json",
- "packageSha256": "e3bdc4cc61b2cd4a03bc1f7c433acb6bdf69ebdf8d2cfbab7a7e877c185c4ec7",
- "publishedAt": "2026-11-07T13:34:02.639254+00:00"
+ "version": "2.21.0",
+ "notes": "v2.21.0 \u2014 Notifications ab clickable hain (aap ki hidayat par): jo khabar jis cheez ki hai, us par click karein to seedha wahi screen khul jayegi \u2014 update ki khabar Settings par, missing Page ki khabar Missing Pages par (usi Page ke filter ke sath), scan ki khabar Scan Reports par, upload/timer/kam-videos ki khabar Upload Manager par, token ke masle ki khabar Connection Monitoring par. Click ke sath woh notification parha hua bhi mark ho jati hai. Note: purani notifications (is update se pehle ki) mein link nahi hoga \u2014 sirf nayi anay wali khabrein clickable hongi.",
+ "package": "update-2.21.0.json",
+ "packageSha256": "1734a5c7422b161e8fa5344cb01d6f5526284a34be6bd33d253c80bdbfb55207",
+ "publishedAt": "2026-11-07T14:02:06.180636+00:00"
 }
