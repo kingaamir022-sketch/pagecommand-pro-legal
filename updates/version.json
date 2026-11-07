@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.19.0",
- "notes": "v2.19.0 \u2014 Upload Auto-Timer (aap ki darkhwast par): ab har video ko alag schedule karne ki zaroorat nahi \u2014 Upload Manager mein ek dafa waqt set kar dein (khaas date/time, ya 'itne minute baad', ya rozana usi waqt), waqt par tamam queued videos khud-ba-khud ek ke baad ek upload ho jayengi. Countdown screen par nazar ayega, cancel bhi wahi se. Timer ke waqt app khuli honi chahiye; band ho to one-time timer aglay khulne par foran chal jayega aur khabar bhi ayegi.",
- "package": "update-2.19.0.json",
- "packageSha256": "2bbd4d3730ef2dacac9655748c69d8621d770430f46b065d027c2d120bcdbc94",
- "publishedAt": "2026-11-07T13:10:08.158945+00:00"
+ "version": "2.20.0",
+ "notes": "v2.20.0 \u2014 Upload ka nizam mazeed pakka (aap ki hidayat par): (1) Duplicate check \u2014 har Page ke liye upload shuda videos ka hash record; jo video pehle upload ho chuki ho woh skip ho kar duplicate/ folder mein chali jayegi, sirf nayi upload hogi (purani done/ videos ek scan se record mein shamil). (2) Folders ab do sathoon par \u2014 pehle Profile ka folder, us ke andar us ke Pages ke folders \u2014 software khud banayega; aap ke purane folders khud nayi tartib mein muntaqil ho jayenge, videos aur history mehfooz. (3) Kisi Page ke folder mein 3 ya kam videos reh jayein to notification ayegi ke videos rakhein.",
+ "package": "update-2.20.0.json",
+ "packageSha256": "e3bdc4cc61b2cd4a03bc1f7c433acb6bdf69ebdf8d2cfbab7a7e877c185c4ec7",
+ "publishedAt": "2026-11-07T13:34:02.639254+00:00"
 }
