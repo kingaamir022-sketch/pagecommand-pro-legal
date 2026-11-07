@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.14.0",
- "notes": "v2.14.0 \u2014 Naye views, mojooda data par: Recently Added Pages (jo pages naye mile), Page Ownership (har Page ka asal owner + sirf-ek-access wali warning), Profile Groups (profiles ko groups mein), Profile Health (connection, token expiry, masail \u2014 har profile ki sehat), Performance Reports (scans ki kamyabi ki report, asal duration ke sath). Page ki Category bhi ab All Pages mein nazar ayegi (Meta se ati thi, app dikhata nahi tha).",
- "package": "update-2.14.0.json",
- "packageSha256": "0a3e06a001c5e1e94e49c9952df42e7ee1ab3862eaf75e3554594745d950cd5d",
- "publishedAt": "2026-11-07T11:55:50.910087+00:00"
+ "version": "2.15.0",
+ "notes": "v2.15.0 \u2014 Records ki safai aur mukammal reports: Duplicate Pages view (ek hi Page ke doobay records pehchanein, fazool record delete karein), Missing Pages par ab Recheck aur Mark Resolved ke button (hal shuda pages alag nazar ayenge, asal scan mein milte hi khud saaf ho jayenge), Scan Reports mein har scan ka asal Duration, aur manual scan mukammal hone par notification. Auto scans khamosh rahenge \u2014 notification sirf aap ke kiye hue scan par ayegi.",
+ "package": "update-2.15.0.json",
+ "packageSha256": "d23deb3f47f8099eb7a7dfbfb8ec0371ab557040357b9f3bb1368ba73fe81a81",
+ "publishedAt": "2026-11-07T12:09:03.784079+00:00"
 }
