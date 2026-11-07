@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.12.0",
- "notes": "v2.12.0 \u2014 Auto-clean (aap ki pasandeeda hifazat ke sath): Duplicate Videos mein naya toggle. ON karne par, scan ke doran jis Page ki bari mukammal hogi, usi waqt us EK hi Page ke andar wali duplicate copies khud remove ho jayengi \u2014 sab se zyada views wali copy mehfooz, views unknown wali ko kabhi haath nahi, aur kam-az-kam 2 copies ke views maloom hon tabhi remove hoga. Cross-Page duplicates pehle ki tarah sirf aap ke confirm par remove hongi. Default OFF hai.",
- "package": "update-2.12.0.json",
- "packageSha256": "c15683de18f9d8dedc20389ae91cae47ad475aacda0126eccaeb39310331f02c",
- "publishedAt": "2026-11-07T11:00:15.942704+00:00"
+ "version": "2.13.0",
+ "notes": "v2.13.0 \u2014 Premium shell (aap ki bheji hui design wali shakal): gehri navy sidebar, upar white top bar \u2014 global search (Ctrl+K), notification bell (unread badge ke sath), aur user menu; sidebar ko chhota (collapse) karne ka button; toast messages. Tamam views aur kaam bilkul waisay hi \u2014 ye sirf bahari shakal aur asani ka update hai. Dashboard ki nayi shakal agli update mein arahi hai.",
+ "package": "update-2.13.0.json",
+ "packageSha256": "873b6e2f5088115df8b2b766cdd06f9fe228609fe67702b8edbf73c68f4f814e",
+ "publishedAt": "2026-11-07T11:34:27.645956+00:00"
 }
