@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.5.2",
- "notes": "v2.5.2 \u2014 Owner Panel aur zyada taqatwar: Aamdani (kul subscriptions, kul aamdani, diya gaya discount, is mahine ki aamdani), Renewal Reminders (key banane ki tareekh se andaza expiry \u2014 asal expiry lagane ke din se ginni jati hai), Taaza Alerts, App Ki Sehat (version, update feed, dastiyab update, akhri check) + Poora Excel Backup button, Khatam Hoti Permissions (EXPIRED ya 7 din mein khatam honay wali profiles), Accounts ki tadaad roles ke sath, aur Is Hafte ki activity (scans, naye pages, transfers, access grants).",
- "package": "update-2.5.2.json",
- "packageSha256": "e88e69f70d78ff2429825795aeee3ce755974be51bbd8e120e84aa987c429d83",
- "publishedAt": "2026-11-06T15:50:22.911300+00:00"
+ "version": "2.6.0",
+ "notes": "v2.6.0 \u2014 Naya \ud83c\udfac Video Manager: kisi bhi Page ki videos ki list (ek waqt mein ek Page), select karke ya sab bulk mein Remove (asal Facebook deletion, confirm ke baghair nahi), aur Bulk Download. Roles: remove sirf Owner/Admin, download Customer ke liye nahi.",
+ "package": "update-2.6.0.json",
+ "packageSha256": "088b61fb0419a511fa25bb25ff7a5c0248db05a5dfde6539598925255c0534fe",
+ "publishedAt": "2026-11-07T05:47:39.467601+00:00"
 }
