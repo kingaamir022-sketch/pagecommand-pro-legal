@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.9.1",
- "notes": "v2.9.1 \u2014 Duplicate Videos scan ki pacing: pages ke darmiyan 1.5 second ka waqfa, aur Meta ki request limit (#4) ane par scan khud ruk jata hai \u2014 jo pages scan ho jayein un ka result mehfooz rehta hai, baaki 'try hi nahi hue' saaf likha ata hai. Adhuri scan par ab 'koi duplicate nahi mila' wala ghalat message nahi ayega.",
- "package": "update-2.9.1.json",
- "packageSha256": "04f82a77b1bffb03d3ce3afd6c8ef5338d5c514cb65eadab78dd371aaad795fa",
- "publishedAt": "2026-11-07T10:08:08.499328+00:00"
+ "version": "2.10.0",
+ "notes": "v2.10.0 \u2014 Naya design: tamam lists aur features par designed boxes/cards \u2014 Master List mein har profile ka apna card, Pages aur profiles ke sath rang-bharay initial avatars, Dashboard aur Owner Panel ke naye stat cards, Video Manager aur Duplicates mein video tiles, aur poori app mein ek jaisi polished shakal (Dark/Light dono themes mein). Kaam karne ka tareeqa bilkul waisa hi hai \u2014 sirf shakal nayi hai.",
+ "package": "update-2.10.0.json",
+ "packageSha256": "9673314b547a33d0f0fab85865e1fc60add76c689352608d73746e2ace351f84",
+ "publishedAt": "2026-11-07T10:26:07.095724+00:00"
 }
