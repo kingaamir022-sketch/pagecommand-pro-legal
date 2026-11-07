@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.13.0",
- "notes": "v2.13.0 \u2014 Premium shell (aap ki bheji hui design wali shakal): gehri navy sidebar, upar white top bar \u2014 global search (Ctrl+K), notification bell (unread badge ke sath), aur user menu; sidebar ko chhota (collapse) karne ka button; toast messages. Tamam views aur kaam bilkul waisay hi \u2014 ye sirf bahari shakal aur asani ka update hai. Dashboard ki nayi shakal agli update mein arahi hai.",
- "package": "update-2.13.0.json",
- "packageSha256": "873b6e2f5088115df8b2b766cdd06f9fe228609fe67702b8edbf73c68f4f814e",
- "publishedAt": "2026-11-07T11:34:27.645956+00:00"
+ "version": "2.13.1",
+ "notes": "v2.13.1 \u2014 Dashboard ki nayi shakal (aap ki bheji hui design par): gradient Welcome banner, rangon walay stat cards, Quick Access tiles, dark Analytics card mein aakhri 7 din ke ASAL scans aur naye pages ka chart, Recent Activities aur promo card. Tamam numbers asal data se hain \u2014 Followers/Reach Meta ki Insights se hi ayenge, nakli numbers nahi dalay gaye.",
+ "package": "update-2.13.1.json",
+ "packageSha256": "fae2a73f1c5100c12ee1bd1e611fca371164647fdd7e1c2d6a7e9f912872de4e",
+ "publishedAt": "2026-11-07T11:40:43.961109+00:00"
 }
