@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.10.2",
- "notes": "v2.10.2 \u2014 Pages ki access ke naam thek kar diye: ab scan ke waqt har access ke sath profile ka naam bhi mehfooz hota hai. Ek Page do profiles par ho to dono profiles ke naam hamesha nazar ayenge \u2014 aur agar koi profile baad mein delete ho jaye to bhi us ka naam chip par (removed) likha nazar ayega, ghayb nahi hoga. Master List mein bhi har Page ke samne Access wala column add kar diya \u2014 tamam access naam wahan bhi nazar ayenge. Note: jo profiles pehle delete ho chuki hain, un ke purane access par naam us waqt mehfooz nahi hua tha, is liye woh chip waisi hi rahe gi.",
- "package": "update-2.10.2.json",
- "packageSha256": "8007330f1e955d206f8d41f360054de8727fb13f270dd4482e71519d35d07c53",
- "publishedAt": "2026-11-07T10:37:54.380989+00:00"
+ "version": "2.11.0",
+ "notes": "v2.11.0 \u2014 Live progress: Duplicate Videos scan ke doran ab nazar ayega ke is waqt KIS Page ki scanning ho rahi hai aur kul kitne percent ho gaya hai (progress bar ke sath). Upload Manager mein bhi yehi setup \u2014 kaun si video kis Page par upload ho rahi hai aur batch ka kitna percent mukammal hai. Scan aur upload ka kaam bilkul waisa hi hai, sirf ab andhere mein nahi hota.",
+ "package": "update-2.11.0.json",
+ "packageSha256": "2954090da5dc49fffb73aeac3a893419373b1d98a2985f935f62ac49b77b6a33",
+ "publishedAt": "2026-11-07T10:53:15.117117+00:00"
 }
