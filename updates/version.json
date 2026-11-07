@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.10.1",
- "notes": "v2.10.1 \u2014 All Pages ka professional card design: har Page ab apna saaf card hai \u2014 lamba link ab ek line mein kata hua (truncate) nazar ata hai, Access Profiles apne naram box mein, Status/Problems/Monetized aur Logo/Bio button har card mein murattab. Facebook Pages, Instagram Accounts aur Missing Pages par bhi yehi design. Kaam ka tareeqa bilkul waisa hi.",
- "package": "update-2.10.1.json",
- "packageSha256": "10b995734559c14c2692f82773472f41b5a3572422e06ba5ad50d60c9dbc77ff",
- "publishedAt": "2026-11-07T10:34:19.468057+00:00"
+ "version": "2.10.2",
+ "notes": "v2.10.2 \u2014 Pages ki access ke naam thek kar diye: ab scan ke waqt har access ke sath profile ka naam bhi mehfooz hota hai. Ek Page do profiles par ho to dono profiles ke naam hamesha nazar ayenge \u2014 aur agar koi profile baad mein delete ho jaye to bhi us ka naam chip par (removed) likha nazar ayega, ghayb nahi hoga. Master List mein bhi har Page ke samne Access wala column add kar diya \u2014 tamam access naam wahan bhi nazar ayenge. Note: jo profiles pehle delete ho chuki hain, un ke purane access par naam us waqt mehfooz nahi hua tha, is liye woh chip waisi hi rahe gi.",
+ "package": "update-2.10.2.json",
+ "packageSha256": "8007330f1e955d206f8d41f360054de8727fb13f270dd4482e71519d35d07c53",
+ "publishedAt": "2026-11-07T10:37:54.380989+00:00"
 }
