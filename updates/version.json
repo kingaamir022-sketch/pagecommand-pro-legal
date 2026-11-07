@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.9.0",
- "notes": "v2.9.0 \u2014 Add Profile mein one-step \ud83d\udd11 Token Connect: token paste karte hi profile khud ban/jur jati hai (asal naam Meta se) aur us ke tamam Pages foran load ho jate hain. Agar usi account ki profile pehle se mojood hai to duplicate nahi banti \u2014 wohi connect ho jati hai.",
- "package": "update-2.9.0.json",
- "packageSha256": "1a9a23ed0aa9549750ca4a32ea9f570e7d9075086c76f543a016cc4796e15066",
- "publishedAt": "2026-11-07T09:52:37.327701+00:00"
+ "version": "2.9.1",
+ "notes": "v2.9.1 \u2014 Duplicate Videos scan ki pacing: pages ke darmiyan 1.5 second ka waqfa, aur Meta ki request limit (#4) ane par scan khud ruk jata hai \u2014 jo pages scan ho jayein un ka result mehfooz rehta hai, baaki 'try hi nahi hue' saaf likha ata hai. Adhuri scan par ab 'koi duplicate nahi mila' wala ghalat message nahi ayega.",
+ "package": "update-2.9.1.json",
+ "packageSha256": "04f82a77b1bffb03d3ce3afd6c8ef5338d5c514cb65eadab78dd371aaad795fa",
+ "publishedAt": "2026-11-07T10:08:08.499328+00:00"
 }
