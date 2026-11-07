@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.11.0",
- "notes": "v2.11.0 \u2014 Live progress: Duplicate Videos scan ke doran ab nazar ayega ke is waqt KIS Page ki scanning ho rahi hai aur kul kitne percent ho gaya hai (progress bar ke sath). Upload Manager mein bhi yehi setup \u2014 kaun si video kis Page par upload ho rahi hai aur batch ka kitna percent mukammal hai. Scan aur upload ka kaam bilkul waisa hi hai, sirf ab andhere mein nahi hota.",
- "package": "update-2.11.0.json",
- "packageSha256": "2954090da5dc49fffb73aeac3a893419373b1d98a2985f935f62ac49b77b6a33",
- "publishedAt": "2026-11-07T10:53:15.117117+00:00"
+ "version": "2.12.0",
+ "notes": "v2.12.0 \u2014 Auto-clean (aap ki pasandeeda hifazat ke sath): Duplicate Videos mein naya toggle. ON karne par, scan ke doran jis Page ki bari mukammal hogi, usi waqt us EK hi Page ke andar wali duplicate copies khud remove ho jayengi \u2014 sab se zyada views wali copy mehfooz, views unknown wali ko kabhi haath nahi, aur kam-az-kam 2 copies ke views maloom hon tabhi remove hoga. Cross-Page duplicates pehle ki tarah sirf aap ke confirm par remove hongi. Default OFF hai.",
+ "package": "update-2.12.0.json",
+ "packageSha256": "c15683de18f9d8dedc20389ae91cae47ad475aacda0126eccaeb39310331f02c",
+ "publishedAt": "2026-11-07T11:00:15.942704+00:00"
 }
