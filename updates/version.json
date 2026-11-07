@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.18.0",
- "notes": "v2.18.0 \u2014 Scheduled Posts aa gaya: Text post Meta ke apne schedule par lagayein (app band ho tab bhi waqt par publish hoga), aur Library ki video ko app-side schedule karein (us ke liye waqt par app khula hona zaroori hai \u2014 view mein saaf likha hai). Publishing History mein har post ka anjaam \u2014 post id ya Meta ki asal wajah ke sath. Note: App Live hone tak scheduled posts sirf app-role accounts ko nazar ayenge, bilkul Upload Manager ki tarah.",
- "package": "update-2.18.0.json",
- "packageSha256": "146d14b4bd6389cb68b67f21a65f59b47f48a2f44d9b6f6376e1fe0224eeece5",
- "publishedAt": "2026-11-07T12:54:40.189330+00:00"
+ "version": "2.19.0",
+ "notes": "v2.19.0 \u2014 Upload Auto-Timer (aap ki darkhwast par): ab har video ko alag schedule karne ki zaroorat nahi \u2014 Upload Manager mein ek dafa waqt set kar dein (khaas date/time, ya 'itne minute baad', ya rozana usi waqt), waqt par tamam queued videos khud-ba-khud ek ke baad ek upload ho jayengi. Countdown screen par nazar ayega, cancel bhi wahi se. Timer ke waqt app khuli honi chahiye; band ho to one-time timer aglay khulne par foran chal jayega aur khabar bhi ayegi.",
+ "package": "update-2.19.0.json",
+ "packageSha256": "2bbd4d3730ef2dacac9655748c69d8621d770430f46b065d027c2d120bcdbc94",
+ "publishedAt": "2026-11-07T13:10:08.158945+00:00"
 }
