@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.24.0",
- "notes": "v2.24.0 \u2014 Posting Coverage ke nishan (aap ki darkhwast par): Page Ownership aur Connection Monitoring mein har Page par saaf nishan \u2014 \u270d\ufe0f Posting mumkin (kis connected profile ke zariye) ya \ud83d\udd11 Connect zaroori (kin profiles mein se ek ko connect karna hoga). Connection Monitoring mein ye bhi nazar ayega ke kis profile ko connect karne se sab se zyada Pages par posting khul jayegi \u2014 taake aap sirf zaroori profiles ko hi connect karein. Nishan app ke paas mojood asal token ki jaanch par banta hai, andazay par nahi.",
- "package": "update-2.24.0.json",
- "packageSha256": "7659ed0a89a65eef21c222a4442cfc19d1556422e1c09155e089d690009cd7ba",
- "publishedAt": "2026-11-07T14:46:00.720436+00:00"
+ "version": "2.25.0",
+ "notes": "v2.25.0 \u2014 Reports aur Backup: Reports page se ab kisi bhi profile ya Page ki mukammal report screen par dekhein aur Print/PDF save karein (asal mehfooz data se). Nayi Backup & Restore screen: poori app ka full backup ek file mein download karein aur zaroorat paray to restore karein \u2014 restore se pehle mojooda data ki safety copy khud ban jati hai. Full backup isi PC/isi install ke liye hota hai; Excel backup pehle ki tarah mojood hai.",
+ "package": "update-2.25.0.json",
+ "packageSha256": "e68eae66d4c09d6ef393ca6e00473d3342fac723148343eba5c5d627305ff780",
+ "publishedAt": "2026-11-08T14:52:41.095015+00:00"
 }
