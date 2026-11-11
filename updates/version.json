@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.28.0",
- "notes": "duplicates scan ab incremental hai \u2014 scan-shuda videos ka record rehta hai, agli scans mein sirf nayi videos ki gehri checking hoti hai, purani videos record se ati hain (group wali videos ke views har scan mein taza hote hain); scan tez, Meta ki limit ka khatra kam",
- "package": "update-2.28.0.json",
- "packageSha256": "0be8c77462c6a68de6d75cd686afe919784c9c48388b6ce19c6d8fc91fe3480f",
- "publishedAt": "2026-11-11T12:25:22.263375+00:00"
+ "version": "2.29.0",
+ "notes": "har Page ke Followers aur pichle 28 din ke kul Views ab All Pages, Master List aur Dashboard par nazar ate hain; Profiles ka Add ab ek hi menu se popup mein khulta hai (Link Add / Token / Bulk Import); sidebar nayi tartib mein groups ke sath; aur poori app ka fresh design.",
+ "package": "update-2.29.0.json",
+ "packageSha256": "91e4dc7dd703d4c8eb6e9f3db7d3e4d34889951f25fae07447a572d4228fcfba",
+ "publishedAt": "2026-11-11T13:16:39.995494+00:00"
 }
