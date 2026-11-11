@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.27.1",
- "notes": "Duplicate Videos aur Video Manager mein ab views Page ke token se parhe jate hain \u2014 jin videos ke views pehle 'Unknown' ate thay, ab asal numbers ayenge.",
- "package": "update-2.27.1.json",
- "packageSha256": "b69f67ee98ee5d0ce3fc736ff15c5d5990a05793509f0dd5a3dc7f80469db4db",
- "publishedAt": "2026-11-11T11:24:58.360140+00:00"
+ "version": "2.28.0",
+ "notes": "duplicates scan ab incremental hai \u2014 scan-shuda videos ka record rehta hai, agli scans mein sirf nayi videos ki gehri checking hoti hai, purani videos record se ati hain (group wali videos ke views har scan mein taza hote hain); scan tez, Meta ki limit ka khatra kam",
+ "package": "update-2.28.0.json",
+ "packageSha256": "0be8c77462c6a68de6d75cd686afe919784c9c48388b6ce19c6d8fc91fe3480f",
+ "publishedAt": "2026-11-11T12:25:22.263375+00:00"
 }
