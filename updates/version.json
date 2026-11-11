@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.25.0",
- "notes": "v2.25.0 \u2014 Reports aur Backup: Reports page se ab kisi bhi profile ya Page ki mukammal report screen par dekhein aur Print/PDF save karein (asal mehfooz data se). Nayi Backup & Restore screen: poori app ka full backup ek file mein download karein aur zaroorat paray to restore karein \u2014 restore se pehle mojooda data ki safety copy khud ban jati hai. Full backup isi PC/isi install ke liye hota hai; Excel backup pehle ki tarah mojood hai.",
- "package": "update-2.25.0.json",
- "packageSha256": "e68eae66d4c09d6ef393ca6e00473d3342fac723148343eba5c5d627305ff780",
- "publishedAt": "2026-11-08T14:52:41.095015+00:00"
+ "version": "2.27.0",
+ "notes": "v2.27.0 \u2014 Profiles, scan aur madad ki behtari: (1) Login / Sign up par password dikhane wala \ud83d\udc41 button. (2) Duplicate Videos scan mein scope: Auto \u2014 tamam profiles, ya Manual \u2014 sirf ek chuni hui profile ke pages. (3) Profile rows par \ud83d\udd04 Re-Connect aur \ud83d\udd0c Disconnect \u2014 Disconnect se sirf token jata hai; profile, pages aur history mehfooz rehti hai. (4) Logo / Bio editor ab wahin popup (modal) mein khulta hai, page ke neeche nahi dhoondna padta. (5) Profiles mein unified '+ Add Profile \u25be' menu \u2014 do steps: Step 1 Link Add (record banta hai, profile Pending rehta hai), Step 2 Claim / Connect (owner ki manzoori \u2014 Connect with Meta ya Token se; Pages khud andar aa jate hain); Bulk Import bhi isi menu mein hai. (6) Nayi \u2753 Help & Support screen \u2014 quick start, how-tos, FAQ aur troubleshooting. (7) Meta permissions ki safai: OAuth ab wohi 6 permissions mangta hai jo App Review mein bheji gayi hain (business_management hata di gayi hai) \u2014 profiles ko dobara Connect karne par token inhi scopes ke sath ayega.",
+ "package": "update-2.27.0.json",
+ "packageSha256": "22ffe53c2ec4f40558ca0c6cdb2a1e48b448c4dc36b037c17624be37c856ad37",
+ "publishedAt": "2026-11-11T08:13:44.683387+00:00"
 }
