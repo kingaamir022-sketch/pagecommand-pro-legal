@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.29.1",
- "notes": "Add Profile menu ka fresh design \u2014 har option ab rang-bhar icon ke sath saaf card style mein ata hai.",
- "package": "update-2.29.1.json",
- "packageSha256": "594844fd3e71fdfeda48baa41c3072f17831899b12508c931fb488aa67d08b9f",
- "publishedAt": "2026-11-11T13:51:46.246871+00:00"
+ "version": "2.30.0",
+ "notes": "Duplicate scan mein ab har Page ki apni progress dikhti hai \u2014 naam, progress bar aur percent ke sath har Page ki halat (Queue / Scan ho raha hai / Ho gaya / Skipped) live nazar ati hai. Scan ko beech mein Pause, Resume aur Stop karne ke designed buttons bhi shamil hain \u2014 ruka hua scan wahin se aage barhta hai, aur Stop par jo scan ho chuka ho wohi mehfooz rehta hai.",
+ "package": "update-2.30.0.json",
+ "packageSha256": "a57fbb53b2238e2e2fbf4b021032e1c7b5c8ba0da95764e492ed33cbc3896852",
+ "publishedAt": "2026-11-11T14:20:32.585472+00:00"
 }
