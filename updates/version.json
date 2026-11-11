@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.29.0",
- "notes": "har Page ke Followers aur pichle 28 din ke kul Views ab All Pages, Master List aur Dashboard par nazar ate hain; Profiles ka Add ab ek hi menu se popup mein khulta hai (Link Add / Token / Bulk Import); sidebar nayi tartib mein groups ke sath; aur poori app ka fresh design.",
- "package": "update-2.29.0.json",
- "packageSha256": "91e4dc7dd703d4c8eb6e9f3db7d3e4d34889951f25fae07447a572d4228fcfba",
- "publishedAt": "2026-11-11T13:16:39.995494+00:00"
+ "version": "2.29.1",
+ "notes": "Add Profile menu ka fresh design \u2014 har option ab rang-bhar icon ke sath saaf card style mein ata hai.",
+ "package": "update-2.29.1.json",
+ "packageSha256": "594844fd3e71fdfeda48baa41c3072f17831899b12508c931fb488aa67d08b9f",
+ "publishedAt": "2026-11-11T13:51:46.246871+00:00"
 }
