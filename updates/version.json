@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.44.0",
- "notes": "Interactive upgrade (v2.44.0): chart ke din par click karne se us din ke scans khulte hain; breadcrumb aur Back button; sidebar groups khulte/band hote hain; Dashboard par Duplicate Pages card; 'Pages With Problems' card All Pages ko masle wale filter ke saath kholta hai; Profiles, Duplicate Videos, Scheduled Posts, Ideas, Users, Library, Video Manager aur Rules mein pagination (25 per page); bulk actions \u2014 Profiles delete/monitoring, Scheduled cancel, Ideas status, Users suspend/unsuspend (Owner-only, khud ko suspend nahi); Changes, Scans, Notifications, Scheduled Posts aur Ideas mein sort; naya Monitoring Errors view (failed scans + error notifications, har row par Retry); global search mein Instagram scope; har Profile par uske granted Meta permissions (Connect/Scan par /me/permissions se, na mile to '\u2014'); failed scans, scheduled posts aur uploads par Retry buttons; Profiles aur Ideas ki rows click karne se detail khulti hai; focus rings aur aria-labels. Sidebar ab 38 entries (Monitoring Errors naya).",
- "package": "update-2.44.0.json",
- "packageSha256": "34c4ca884f447821a3816864e49c112150364bf93ce762a10eed7868e64602af",
- "publishedAt": "2026-11-12T09:26:08.561553+00:00"
+ "version": "2.45.0",
+ "notes": "",
+ "package": "update-2.45.0.json",
+ "packageSha256": "f42d44d7f79235201016235c427d627d98305adce4127b33c2794cc005fd2e00",
+ "publishedAt": "2026-11-12T09:46:01.437385+00:00"
 }
