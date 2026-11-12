@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.41.0",
- "notes": "Search, alerts & reports (R5): global search mein history + suggestions + scope filters + naye scopes (Groups, Scheduled, Activities, Media); Notifications mein Critical/Warning/Info severity + search + per-alert action buttons (Re-Connect, Scan Again, View Page); Report Center \u2014 Missing, Duplicates, Monitoring, Health, Activity reports, sab real exports; Scan Reports mein failed-only filter. Koi Meta/scope change nahi.",
- "package": "update-2.41.0.json",
- "packageSha256": "c1295ab7f711dad4b43988f1a7a0959887c5a98637a4432369763f81167abf7e",
- "publishedAt": "2026-11-12T07:15:51.547405+00:00"
+ "version": "2.42.0",
+ "notes": "QA + final delivery (R6): purana literal-icon bug fix \u2014 Reports/Notifications/Uploads/Owner/Admin/Billing/Help views mein icon ab asli SVG hai, literal text nahi; 37 sidebar entries + dashboard cards + dead-button sweep verify; QA_REPORT refresh; redesign mukammal (R1\u2013R6). Koi feature change nahi.",
+ "package": "update-2.42.0.json",
+ "packageSha256": "a9d5835aed9e7fb138025c2cfc731710e1601ece546b8e6d0e3a15ad9f5a4284",
+ "publishedAt": "2026-11-12T07:32:11.729102+00:00"
 }
