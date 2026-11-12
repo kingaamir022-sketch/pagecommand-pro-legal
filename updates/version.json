@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.46.0",
- "notes": "Alert box (v2.46.0): Important Alerts ab aik asli box hai \u2014 amber-tinted card, har alert apni row mein (severity icon + bold title + aik saaf summary line, lafz ki had par kata hua), aur UPDATE_AVAILABLE alerts par asli 'Update Now' button jo Settings ke Updates tab par le jata hai. Lambi manifest notes ab row mein nahi aati \u2014 poori tafseel alert ke apne click se milti hai. Koi data/API change nahi.",
- "package": "update-2.46.0.json",
- "packageSha256": "9558b3e2b7c911ef63920fb29749b62b49ce4242e34552a1926914ff8628398d",
- "publishedAt": "2026-11-12T10:02:31.108727+00:00"
+ "version": "2.47.0",
+ "notes": "Important Alerts moved from the dashboard into the header bell menu (user request): the bell dropdown now opens with the Important Alerts section \u2014 same rows (severity icon, bold title, word-boundary summary, Update Now on update alerts) \u2014 above the notifications list; dashboard box removed, hero + stat cards unchanged. No new endpoint: the bell reuses GET /api/notifications?importance=important.",
+ "package": "update-2.47.0.json",
+ "packageSha256": "953590dd0261efa423485e803d5260d96bdbd2ff7433d929ea7945b13fef419b",
+ "publishedAt": "2026-11-12T11:21:24.700618+00:00"
 }
