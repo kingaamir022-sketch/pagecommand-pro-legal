@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.39.0",
- "notes": "",
- "package": "update-2.39.0.json",
- "packageSha256": "4810093f5a39db75ad6ec1c281417c1438518cc6b870c14c9240a9e2b026e1b0",
- "publishedAt": "2026-11-12T06:16:00.973906+00:00"
+ "version": "2.40.0",
+ "notes": "Theme + motion (R4): dark mode poora \u2014 charts palette, hero/cards/promo dark tones, print styles theek; smooth theme transitions; page/dropdown/modal animations; chart loading shimmer; prefers-reduced-motion support. --txt bug fix. Koi feature change nahi.",
+ "package": "update-2.40.0.json",
+ "packageSha256": "d919209da4855fc83270e5a6306d4570bc9dd88a9f00e99c85198af5af5ebefc",
+ "publishedAt": "2026-11-12T06:39:51.253054+00:00"
 }
