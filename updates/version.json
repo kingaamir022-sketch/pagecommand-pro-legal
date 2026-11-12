@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.43.0",
- "notes": "Avatars (v2.43.0): har Page aur Profile ki asli picture ab uske naam ke saath gol icon mein dikhti hai \u2014 Profiles list, header Profile Switcher, Master List, All Pages cards, Records, Recently Added, Page Access, Transfers, Connections, Groups, Duplicates, Video/Image Manager, Uploads, Scheduled Posts, Publishing History, Reports, Owner Panel, leaderboard aur Analytics \u2014 jahan picture nahi, wahan initials wala gol icon. Profile picture /me se aati hai (Connect, Token Connect, Scan aur Re-Connect par refresh). Admin Panel 'Koi user nahi' empty state ka icon fix. Koi naya string nahi.",
- "package": "update-2.43.0.json",
- "packageSha256": "eae636e57e21f990a2faa569550247df1aebdabd6c23e82daa674b711068fc0f",
- "publishedAt": "2026-11-12T08:15:21.788810+00:00"
+ "version": "2.44.0",
+ "notes": "Interactive upgrade (v2.44.0): chart ke din par click karne se us din ke scans khulte hain; breadcrumb aur Back button; sidebar groups khulte/band hote hain; Dashboard par Duplicate Pages card; 'Pages With Problems' card All Pages ko masle wale filter ke saath kholta hai; Profiles, Duplicate Videos, Scheduled Posts, Ideas, Users, Library, Video Manager aur Rules mein pagination (25 per page); bulk actions \u2014 Profiles delete/monitoring, Scheduled cancel, Ideas status, Users suspend/unsuspend (Owner-only, khud ko suspend nahi); Changes, Scans, Notifications, Scheduled Posts aur Ideas mein sort; naya Monitoring Errors view (failed scans + error notifications, har row par Retry); global search mein Instagram scope; har Profile par uske granted Meta permissions (Connect/Scan par /me/permissions se, na mile to '\u2014'); failed scans, scheduled posts aur uploads par Retry buttons; Profiles aur Ideas ki rows click karne se detail khulti hai; focus rings aur aria-labels. Sidebar ab 38 entries (Monitoring Errors naya).",
+ "package": "update-2.44.0.json",
+ "packageSha256": "34c4ca884f447821a3816864e49c112150364bf93ce762a10eed7868e64602af",
+ "publishedAt": "2026-11-12T09:26:08.561553+00:00"
 }
