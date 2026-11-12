@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.42.0",
- "notes": "QA + final delivery (R6): purana literal-icon bug fix \u2014 Reports/Notifications/Uploads/Owner/Admin/Billing/Help views mein icon ab asli SVG hai, literal text nahi; 37 sidebar entries + dashboard cards + dead-button sweep verify; QA_REPORT refresh; redesign mukammal (R1\u2013R6). Koi feature change nahi.",
- "package": "update-2.42.0.json",
- "packageSha256": "a9d5835aed9e7fb138025c2cfc731710e1601ece546b8e6d0e3a15ad9f5a4284",
- "publishedAt": "2026-11-12T07:32:11.729102+00:00"
+ "version": "2.43.0",
+ "notes": "Avatars (v2.43.0): har Page aur Profile ki asli picture ab uske naam ke saath gol icon mein dikhti hai \u2014 Profiles list, header Profile Switcher, Master List, All Pages cards, Records, Recently Added, Page Access, Transfers, Connections, Groups, Duplicates, Video/Image Manager, Uploads, Scheduled Posts, Publishing History, Reports, Owner Panel, leaderboard aur Analytics \u2014 jahan picture nahi, wahan initials wala gol icon. Profile picture /me se aati hai (Connect, Token Connect, Scan aur Re-Connect par refresh). Admin Panel 'Koi user nahi' empty state ka icon fix. Koi naya string nahi.",
+ "package": "update-2.43.0.json",
+ "packageSha256": "eae636e57e21f990a2faa569550247df1aebdabd6c23e82daa674b711068fc0f",
+ "publishedAt": "2026-11-12T08:15:21.788810+00:00"
 }
