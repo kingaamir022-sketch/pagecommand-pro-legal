@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.34.0",
- "notes": "Security release: abuse auto-suspend (login throttle, 403 bursts, bulk delete, Meta #4 episodes) with Owner alerts + job pause/resume; attack/bug alerts with remedy + deep link; Owner second factor \u2014 security questions for OWNER/ADMIN + one-time recovery code + Sign out everywhere; failed OWNER/ADMIN login alerts; per-notification dismiss.",
- "package": "update-2.34.0.json",
- "packageSha256": "8904d91d042e2e4fbefb4b5138c477f366955c3c9266c623b705efb45e773d9f",
- "publishedAt": "2026-11-12T02:56:11.232687+00:00"
+ "version": "2.35.0",
+ "notes": "Bulk scheduled posting (one post, many Pages, per-Page results); Client Report Pack (profile totals, Followers/Views, missing + single-access risks, duplicates); token-expiry watchdog (7-day warning, once per window, Re-Connect link in Connection Monitoring); Top/Bottom Pages leaderboard in Analytics; Ideas box (submit to Owner, auto appreciation on first read, Planned/Done/Declined with submitter notifications); cross-PC Owner Reports (important records only, daily/weekly email when SMTP is set, Excel download otherwise); Automation Rules expansion (5 new triggers, 3 new actions, one-click templates, no auto-delete).",
+ "package": "update-2.35.0.json",
+ "packageSha256": "d8d874f11aea3ba1a56e1d793ddd6a29f66bf193fe77a871e793ff1b277bbae1",
+ "publishedAt": "2026-11-12T03:38:29.181393+00:00"
 }
