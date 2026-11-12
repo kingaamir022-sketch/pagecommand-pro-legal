@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.40.0",
- "notes": "Theme + motion (R4): dark mode poora \u2014 charts palette, hero/cards/promo dark tones, print styles theek; smooth theme transitions; page/dropdown/modal animations; chart loading shimmer; prefers-reduced-motion support. --txt bug fix. Koi feature change nahi.",
- "package": "update-2.40.0.json",
- "packageSha256": "d919209da4855fc83270e5a6306d4570bc9dd88a9f00e99c85198af5af5ebefc",
- "publishedAt": "2026-11-12T06:39:51.253054+00:00"
+ "version": "2.41.0",
+ "notes": "Search, alerts & reports (R5): global search mein history + suggestions + scope filters + naye scopes (Groups, Scheduled, Activities, Media); Notifications mein Critical/Warning/Info severity + search + per-alert action buttons (Re-Connect, Scan Again, View Page); Report Center \u2014 Missing, Duplicates, Monitoring, Health, Activity reports, sab real exports; Scan Reports mein failed-only filter. Koi Meta/scope change nahi.",
+ "package": "update-2.41.0.json",
+ "packageSha256": "c1295ab7f711dad4b43988f1a7a0959887c5a98637a4432369763f81167abf7e",
+ "publishedAt": "2026-11-12T07:15:51.547405+00:00"
 }
