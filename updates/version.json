@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.45.0",
- "notes": "",
- "package": "update-2.45.0.json",
- "packageSha256": "f42d44d7f79235201016235c427d627d98305adce4127b33c2794cc005fd2e00",
- "publishedAt": "2026-11-12T09:46:01.437385+00:00"
+ "version": "2.46.0",
+ "notes": "Alert box (v2.46.0): Important Alerts ab aik asli box hai \u2014 amber-tinted card, har alert apni row mein (severity icon + bold title + aik saaf summary line, lafz ki had par kata hua), aur UPDATE_AVAILABLE alerts par asli 'Update Now' button jo Settings ke Updates tab par le jata hai. Lambi manifest notes ab row mein nahi aati \u2014 poori tafseel alert ke apne click se milti hai. Koi data/API change nahi.",
+ "package": "update-2.46.0.json",
+ "packageSha256": "9558b3e2b7c911ef63920fb29749b62b49ce4242e34552a1926914ff8628398d",
+ "publishedAt": "2026-11-12T10:02:31.108727+00:00"
 }
