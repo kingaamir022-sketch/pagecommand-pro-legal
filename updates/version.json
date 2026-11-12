@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.35.0",
- "notes": "Bulk scheduled posting (one post, many Pages, per-Page results); Client Report Pack (profile totals, Followers/Views, missing + single-access risks, duplicates); token-expiry watchdog (7-day warning, once per window, Re-Connect link in Connection Monitoring); Top/Bottom Pages leaderboard in Analytics; Ideas box (submit to Owner, auto appreciation on first read, Planned/Done/Declined with submitter notifications); cross-PC Owner Reports (important records only, daily/weekly email when SMTP is set, Excel download otherwise); Automation Rules expansion (5 new triggers, 3 new actions, one-click templates, no auto-delete).",
- "package": "update-2.35.0.json",
- "packageSha256": "d8d874f11aea3ba1a56e1d793ddd6a29f66bf193fe77a871e793ff1b277bbae1",
- "publishedAt": "2026-11-12T03:38:29.181393+00:00"
+ "version": "2.36.0",
+ "notes": "Full-app language switcher, English \u2194 Roman Urdu (no Urdu script, no RTL): per-user language on the user record (default English), a Language selector in Settings + a quick EN/UR toggle in the header, instant apply with no reload, server-persisted via PUT /api/auth/me/language; one shared dictionary (src/lib/i18n.js, 561 keys per language) covers navigation, buttons, headings, toasts, empty states, confirmations, server errors and notification bodies \u2014 each rendered per the requesting/target user's language, stored notifications never rewritten.",
+ "package": "update-2.36.0.json",
+ "packageSha256": "fa4bf861b87f43098fc24f5d7d845c49211a5530e3da323ae8699e14f75f8990",
+ "publishedAt": "2026-11-12T04:27:27.651170+00:00"
 }
