@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.38.0",
- "notes": "Header + navigation (R2): Profile Switcher with per-user active profile, Quick Add menu, Help button, live header clock, header Dark/Light toggle, smooth collapsible rail, mobile nav drawer \u2264860px, Quick Access gains Add Profile / Scan All Pages / Add Facebook Page / Add Instagram Account / Schedule Post / Failed Posts; new POST /api/profiles/scan-all scans every connected profile sequentially with per-profile results.",
- "package": "update-2.38.0.json",
- "packageSha256": "df37c4cf3994326c5cdd812857b412280d252b52e76f67cf6bc65100bfff8b8a",
- "publishedAt": "2026-11-12T06:01:44.113095+00:00"
+ "version": "2.39.0",
+ "notes": "",
+ "package": "update-2.39.0.json",
+ "packageSha256": "4810093f5a39db75ad6ec1c281417c1438518cc6b870c14c9240a9e2b026e1b0",
+ "publishedAt": "2026-11-12T06:16:00.973906+00:00"
 }
