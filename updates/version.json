@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.37.0",
- "notes": "Design system foundation (R1): brand tokens (Royal Blue #315EF7, Premium Purple #7952E8, Cyan #20C5E8, Soft White #F5F7FC, Dark Navy #111B35), gradients flattened (only the brand logo tile + skeleton shimmer remain), Lucide icons via locally bundled public/icons.svg (no CDN), shared card/table/modal/button/pill components restyled, dark-mode overrides for every status pill, type + spacing scales. No behavior change.",
- "package": "update-2.37.0.json",
- "packageSha256": "b9b04adbd39f94986130b9e8bf0d34a06293e3a9aae7226bfcfe6c759aa76473",
- "publishedAt": "2026-11-12T05:29:37.414764+00:00"
+ "version": "2.38.0",
+ "notes": "Header + navigation (R2): Profile Switcher with per-user active profile, Quick Add menu, Help button, live header clock, header Dark/Light toggle, smooth collapsible rail, mobile nav drawer \u2264860px, Quick Access gains Add Profile / Scan All Pages / Add Facebook Page / Add Instagram Account / Schedule Post / Failed Posts; new POST /api/profiles/scan-all scans every connected profile sequentially with per-profile results.",
+ "package": "update-2.38.0.json",
+ "packageSha256": "df37c4cf3994326c5cdd812857b412280d252b52e76f67cf6bc65100bfff8b8a",
+ "publishedAt": "2026-11-12T06:01:44.113095+00:00"
 }
