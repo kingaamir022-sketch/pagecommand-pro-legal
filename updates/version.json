@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.32.0",
- "notes": "All Pages par asal Page picture, bulk select + bulk Excel/CSV export + bulk Monetized, sort (Name / Date added / Followers / Views) + date-added, Notifications mein type filter + pagination, Profiles mein inline Edit + Test connection, Master List mein per-profile Excel export + collapse/expand.",
- "package": "update-2.32.0.json",
- "packageSha256": "4db9fcd8f19151d47dca1802279ab2b074e45b77a831ff6ea0ff6a21fdef958d",
- "publishedAt": "2026-11-12T01:49:47.477701+00:00"
+ "version": "2.33.0",
+ "notes": "Per-user feature grants (Owner-controlled, 9 features) + grant/role management in Owner Panel; instant targeted notifications for grant/role/setting changes (bell for all roles); record importance (Important/All filter on Change History, Notifications, Audit Log) + routine change-history cap 200; grants are additive only, owner-only features never grantable.",
+ "package": "update-2.33.0.json",
+ "packageSha256": "b619cec17aeb585be4a1ed08940275370bffdbf985c8eb7393fe814f6a23be42",
+ "publishedAt": "2026-11-12T02:22:27.120034+00:00"
 }
