@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.33.0",
- "notes": "Per-user feature grants (Owner-controlled, 9 features) + grant/role management in Owner Panel; instant targeted notifications for grant/role/setting changes (bell for all roles); record importance (Important/All filter on Change History, Notifications, Audit Log) + routine change-history cap 200; grants are additive only, owner-only features never grantable.",
- "package": "update-2.33.0.json",
- "packageSha256": "b619cec17aeb585be4a1ed08940275370bffdbf985c8eb7393fe814f6a23be42",
- "publishedAt": "2026-11-12T02:22:27.120034+00:00"
+ "version": "2.34.0",
+ "notes": "Security release: abuse auto-suspend (login throttle, 403 bursts, bulk delete, Meta #4 episodes) with Owner alerts + job pause/resume; attack/bug alerts with remedy + deep link; Owner second factor \u2014 security questions for OWNER/ADMIN + one-time recovery code + Sign out everywhere; failed OWNER/ADMIN login alerts; per-notification dismiss.",
+ "package": "update-2.34.0.json",
+ "packageSha256": "8904d91d042e2e4fbefb4b5138c477f366955c3c9266c623b705efb45e773d9f",
+ "publishedAt": "2026-11-12T02:56:11.232687+00:00"
 }
