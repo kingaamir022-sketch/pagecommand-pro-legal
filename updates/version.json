@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.36.0",
- "notes": "Full-app language switcher, English \u2194 Roman Urdu (no Urdu script, no RTL): per-user language on the user record (default English), a Language selector in Settings + a quick EN/UR toggle in the header, instant apply with no reload, server-persisted via PUT /api/auth/me/language; one shared dictionary (src/lib/i18n.js, 561 keys per language) covers navigation, buttons, headings, toasts, empty states, confirmations, server errors and notification bodies \u2014 each rendered per the requesting/target user's language, stored notifications never rewritten.",
- "package": "update-2.36.0.json",
- "packageSha256": "fa4bf861b87f43098fc24f5d7d845c49211a5530e3da323ae8699e14f75f8990",
- "publishedAt": "2026-11-12T04:27:27.651170+00:00"
+ "version": "2.37.0",
+ "notes": "Design system foundation (R1): brand tokens (Royal Blue #315EF7, Premium Purple #7952E8, Cyan #20C5E8, Soft White #F5F7FC, Dark Navy #111B35), gradients flattened (only the brand logo tile + skeleton shimmer remain), Lucide icons via locally bundled public/icons.svg (no CDN), shared card/table/modal/button/pill components restyled, dark-mode overrides for every status pill, type + spacing scales. No behavior change.",
+ "package": "update-2.37.0.json",
+ "packageSha256": "b9b04adbd39f94986130b9e8bf0d34a06293e3a9aae7226bfcfe6c759aa76473",
+ "publishedAt": "2026-11-12T05:29:37.414764+00:00"
 }
