@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.31.0",
- "notes": "Notifications ki had 500 (nayin sab se pehle), 12 mahine purana history archive ho kar trim hota hai, Analytics mein asal Total Followers dikhta hai, bekaar chart code hataya gaya.",
- "package": "update-2.31.0.json",
- "packageSha256": "ee2a2e81546fa827b535f0ada40071682502358dcc5ef2ebe72f586188e2709f",
- "publishedAt": "2026-11-12T01:26:12.534562+00:00"
+ "version": "2.32.0",
+ "notes": "All Pages par asal Page picture, bulk select + bulk Excel/CSV export + bulk Monetized, sort (Name / Date added / Followers / Views) + date-added, Notifications mein type filter + pagination, Profiles mein inline Edit + Test connection, Master List mein per-profile Excel export + collapse/expand.",
+ "package": "update-2.32.0.json",
+ "packageSha256": "4db9fcd8f19151d47dca1802279ab2b074e45b77a831ff6ea0ff6a21fdef958d",
+ "publishedAt": "2026-11-12T01:49:47.477701+00:00"
 }
