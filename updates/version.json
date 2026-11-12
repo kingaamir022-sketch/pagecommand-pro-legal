@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.30.0",
- "notes": "Duplicate scan mein ab har Page ki apni progress dikhti hai \u2014 naam, progress bar aur percent ke sath har Page ki halat (Queue / Scan ho raha hai / Ho gaya / Skipped) live nazar ati hai. Scan ko beech mein Pause, Resume aur Stop karne ke designed buttons bhi shamil hain \u2014 ruka hua scan wahin se aage barhta hai, aur Stop par jo scan ho chuka ho wohi mehfooz rehta hai.",
- "package": "update-2.30.0.json",
- "packageSha256": "a57fbb53b2238e2e2fbf4b021032e1c7b5c8ba0da95764e492ed33cbc3896852",
- "publishedAt": "2026-11-11T14:20:32.585472+00:00"
+ "version": "2.31.0",
+ "notes": "Notifications ki had 500 (nayin sab se pehle), 12 mahine purana history archive ho kar trim hota hai, Analytics mein asal Total Followers dikhta hai, bekaar chart code hataya gaya.",
+ "package": "update-2.31.0.json",
+ "packageSha256": "ee2a2e81546fa827b535f0ada40071682502358dcc5ef2ebe72f586188e2709f",
+ "publishedAt": "2026-11-12T01:26:12.534562+00:00"
 }
