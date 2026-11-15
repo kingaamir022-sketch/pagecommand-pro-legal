@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.47.0",
- "notes": "Important Alerts moved from the dashboard into the header bell menu (user request): the bell dropdown now opens with the Important Alerts section \u2014 same rows (severity icon, bold title, word-boundary summary, Update Now on update alerts) \u2014 above the notifications list; dashboard box removed, hero + stat cards unchanged. No new endpoint: the bell reuses GET /api/notifications?importance=important.",
- "package": "update-2.47.0.json",
- "packageSha256": "953590dd0261efa423485e803d5260d96bdbd2ff7433d929ea7945b13fef419b",
- "publishedAt": "2026-11-12T11:21:24.700618+00:00"
+ "version": "2.48.0",
+ "notes": "US Audience Smart Scheduler: Best Times view (Meta fans-online, else your own posts' history \u2014 every number labelled with its source, US time + Pakistan time, 24h cache) and Smart Schedule inside Scheduled Posts (3\u20134 videos or 15\u201325 images a day at the best US times or your own US times, daily-cap guard with warning, gap between videos 24/48/72h or custom hours). Scheduled image posts are new (POST /{page-id}/photos, one image per post). Auto hashtags on upload/schedule from the file name, the Page, your own best-performing tags and a generic set (max 12, editable chips, honest label \u2014 never 'live trending'); Google Trends (US) adds extra suggestions best-effort only and fails silently. US time zone (ET/CT/MT/PT) stored once and shared by both views.",
+ "package": "update-2.48.0.json",
+ "packageSha256": "bb2b165013477d361628740f3ca9b8a3bd50951e23eae3b77159f993f717f5a3",
+ "publishedAt": "2026-11-15T16:25:02.268322+00:00"
 }
