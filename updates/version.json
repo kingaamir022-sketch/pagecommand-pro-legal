@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.48.0",
- "notes": "US Audience Smart Scheduler: Best Times view (Meta fans-online, else your own posts' history \u2014 every number labelled with its source, US time + Pakistan time, 24h cache) and Smart Schedule inside Scheduled Posts (3\u20134 videos or 15\u201325 images a day at the best US times or your own US times, daily-cap guard with warning, gap between videos 24/48/72h or custom hours). Scheduled image posts are new (POST /{page-id}/photos, one image per post). Auto hashtags on upload/schedule from the file name, the Page, your own best-performing tags and a generic set (max 12, editable chips, honest label \u2014 never 'live trending'); Google Trends (US) adds extra suggestions best-effort only and fails silently. US time zone (ET/CT/MT/PT) stored once and shared by both views.",
- "package": "update-2.48.0.json",
- "packageSha256": "bb2b165013477d361628740f3ca9b8a3bd50951e23eae3b77159f993f717f5a3",
- "publishedAt": "2026-11-15T16:25:02.268322+00:00"
+ "version": "2.49.0",
+ "notes": "Dashboard v2: hero with System Status strip (Monitoring, Scheduler last tick, Meta (#4) in last 24h, Update), 'Aaj ka kaam' panel (today's scheduled + next 3, FAILED with Retry, tokens expiring, Missing/Needs-review, low stock), Next Best Slot (history-only, prefills Smart Schedule), 6-card KPI row with 7-day sparklines + delta chips and a collapsible More-stats panel, Page Health Score donut (app's own score, not a Meta metric) with weakest Pages + why lists, Growth Movers from followerHistory only, Inactive Pages (no recorded post for N days, default 7) with a warning notification, 7-day calendar strip opening Scheduled Posts filtered to that day, Reach/Engagement locked card, Setup progress replacing the Promo card. Status pill tints (.st-SCHEDULED/.st-PENDING/.st-PUBLISHED/.st-CANCELLED/.st-DRAFT/.st-APPROVED/.st-REJECTED), --danger token, Compact density toggle in Settings > Appearance. Quick Access tiles leave the dashboard (all actions stay in the sidebar + hero shortcuts); the Page Detail drawer and Calendar view come in v2.50.0.",
+ "package": "update-2.49.0.json",
+ "packageSha256": "caf1f1dd3d327e55394917cb8e7c8ba8deb30217b3574357743bea3ba5cf8d78",
+ "publishedAt": "2026-11-16T11:05:51.244851+00:00"
 }
