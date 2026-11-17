@@ -1,8 +1,8 @@
 {
  "app": "PageCommand Pro",
- "version": "2.49.0",
- "notes": "Dashboard v2: hero with System Status strip (Monitoring, Scheduler last tick, Meta (#4) in last 24h, Update), 'Aaj ka kaam' panel (today's scheduled + next 3, FAILED with Retry, tokens expiring, Missing/Needs-review, low stock), Next Best Slot (history-only, prefills Smart Schedule), 6-card KPI row with 7-day sparklines + delta chips and a collapsible More-stats panel, Page Health Score donut (app's own score, not a Meta metric) with weakest Pages + why lists, Growth Movers from followerHistory only, Inactive Pages (no recorded post for N days, default 7) with a warning notification, 7-day calendar strip opening Scheduled Posts filtered to that day, Reach/Engagement locked card, Setup progress replacing the Promo card. Status pill tints (.st-SCHEDULED/.st-PENDING/.st-PUBLISHED/.st-CANCELLED/.st-DRAFT/.st-APPROVED/.st-REJECTED), --danger token, Compact density toggle in Settings > Appearance. Quick Access tiles leave the dashboard (all actions stay in the sidebar + hero shortcuts); the Page Detail drawer and Calendar view come in v2.50.0.",
- "package": "update-2.49.0.json",
- "packageSha256": "caf1f1dd3d327e55394917cb8e7c8ba8deb30217b3574357743bea3ba5cf8d78",
- "publishedAt": "2026-11-16T11:05:51.244851+00:00"
+ "version": "2.50.0",
+ "notes": "Best-ideas batch: performance alerts (VIDEO_VIRAL at 2x Page average with >=5 known-view videos, VIDEO_MILESTONE 1k/10k/100k, FOLLOWER_MILESTONE 1k/5k/10k/50k/100k, each once only), Hashtag performance panel in Analytics (own recorded data, top 10), caption templates (Content Library) + per-Page default tags (All Pages, join the auto-tag pool after best tags, still capped at 12), best posting days in Best Times (own history, by US weekday), Page Comparison view (INSIGHTS, NAV 40, sortable by Followers/Views, posting streak + Health score), library stock forecast + next-video suggestion in Upload Manager (oldest unused video, Schedule prefills Smart Schedule). CUSTOMER reads all new views/panels with counts only, zero 403s.",
+ "package": "update-2.50.0.json",
+ "packageSha256": "8c36bb5507acdbd110fc295275ee03d5a2530ed204bf0605be421ea5b01d71bf",
+ "publishedAt": "2026-11-16T17:21:30.685742+00:00"
 }
